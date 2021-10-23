@@ -1,6 +1,6 @@
-# Frontend Mentor - Stats preview card 
+# Frontend Mentor - Stats preview card
 
-![Header/intro section for the Huddle landing page with curved sections](./images/desktop-preview.jpg)
+![Header/intro section for the Huddle landing page with curved sections](./images/desktop-preview.png)
 
 ### Links
 
